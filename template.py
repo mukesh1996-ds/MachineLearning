@@ -6,8 +6,7 @@ while True:
     project_name = input("Enter Your Project Nama:- ")
     if project_name != "":
         break
-
-
+    
 # src/__init__.py
 list_of_files = [
     f"{project_name}/__init__.py",
